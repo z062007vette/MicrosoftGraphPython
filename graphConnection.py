@@ -74,8 +74,6 @@ Script functions, section based on requirements and calls
 Read configuration file for this to run
 file name is config.ini
 Config has general connection information for all runnable functions
-Test section for testing the code to work with both Privacy portal and GM Video
-Prod section for connect to prod Privacy Portal, Prod GM video (video.gm.com) and Prod Virtual Events (*.virtualevents.gm.com)
 =====================================================================================================================
 """
 
