@@ -124,8 +124,7 @@ End reading config function
 =====================================================================================================================
 Connect to Microsoft Graph API
     This will connect to the graph API's. It uses the scope set in the Azure Application
-    The Azure Application as of creation is 177147-GMVOD-CLIENT-OAUTH-PROD-usersync
-    Service Request ID: 39270248
+    
 
     The following permissions is what is set for this to run:
     - Directory.Read.All
